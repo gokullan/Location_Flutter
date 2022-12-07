@@ -1,6 +1,6 @@
-# mylocation
+# Get Location
 
-A new Flutter project.
+A Flutter application that is used to obtain the user's current location (in terms of latitude and longitude)
 
 ## Getting Started
 
